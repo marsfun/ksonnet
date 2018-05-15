@@ -17,7 +17,6 @@ package actions
 
 import (
 	"io"
-	"os"
 
 	"github.com/ksonnet/ksonnet/pkg/app"
 	"github.com/ksonnet/ksonnet/pkg/client"
@@ -59,7 +58,7 @@ func newShow(m map[string]interface{}, opts ...showOpt) (*Show, error) {
 		componentNames: ol.LoadStringSlice(OptionComponentNames),
 		format:         ol.LoadString(OptionFormat),
 
-		out:       os.Stdout,
+		out:       ol.LoadBuffer(OptionBuffer),
 		runShowFn: cluster.RunShow,
 	}
 

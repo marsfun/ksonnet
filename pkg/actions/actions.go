@@ -22,6 +22,7 @@ import (
 	"github.com/ksonnet/ksonnet/pkg/client"
 	"github.com/pkg/errors"
 	"github.com/spf13/afero"
+	"io"
 )
 
 const (
@@ -348,4 +349,20 @@ func (o *optionLoader) loadOptional(key string) interface{} {
 	}
 
 	return i
+}
+
+
+func (o *optionLoader) LoadBuffer(name string) io.Writer {
+	i := o.load(name)
+	if i == nil {
+		return nil
+	}
+
+	a, ok := i.(io.Writer)
+	if !ok {
+		o.err = newInvalidOptionError(name)
+		return nil
+	}
+
+	return a
 }
