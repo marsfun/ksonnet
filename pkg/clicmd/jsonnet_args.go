@@ -41,6 +41,11 @@ func bindJsonnetFlags(cmd *cobra.Command, name string) {
 	viper.BindPFlag(name+"-tla-var-file", cmd.Flags().Lookup(flagTlaVarFile))
 }
 
+
+func ExtractJsonnetFlags(name string) error {
+	return extractJsonnetFlags(name)
+}
+
 func extractJsonnetFlags(name string) error {
 	jPaths := viper.GetStringSlice(name + "-jpath")
 	env.AddJPaths(jPaths...)
