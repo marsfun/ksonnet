@@ -18,9 +18,9 @@ package actions
 import (
 	"testing"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	amocks "github.com/ksonnet/ksonnet/pkg/app/mocks"
-	"github.com/ksonnet/ksonnet/pkg/registry"
+	"github.com/marsfun/ksonnet/pkg/app"
+	amocks "github.com/marsfun/ksonnet/pkg/app/mocks"
+	"github.com/marsfun/ksonnet/pkg/registry"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

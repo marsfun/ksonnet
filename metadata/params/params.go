@@ -22,7 +22,7 @@ import (
 	"strconv"
 	"strings"
 
-	str "github.com/ksonnet/ksonnet/pkg/util/strings"
+	str "github.com/marsfun/ksonnet/pkg/util/strings"
 	"github.com/pkg/errors"
 
 	"github.com/google/go-jsonnet/ast"

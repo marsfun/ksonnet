@@ -15,7 +15,7 @@
 
 package actions
 
-import "github.com/ksonnet/ksonnet/pkg/app"
+import "github.com/marsfun/ksonnet/pkg/app"
 
 // RunUpgrade runs `upgrade`.
 func RunUpgrade(m map[string]interface{}) error {

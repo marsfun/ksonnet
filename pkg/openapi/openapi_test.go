@@ -20,9 +20,9 @@ import (
 
 	"github.com/go-openapi/spec"
 	"github.com/go-openapi/strfmt"
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/app/mocks"
-	"github.com/ksonnet/ksonnet/pkg/util/test"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/app/mocks"
+	"github.com/marsfun/ksonnet/pkg/util/test"
 	"github.com/spf13/afero"
 	"github.com/stretchr/testify/require"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

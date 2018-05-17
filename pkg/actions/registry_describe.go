@@ -21,8 +21,8 @@ import (
 	"os"
 	"sort"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/registry"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/registry"
 	"github.com/pkg/errors"
 )
 

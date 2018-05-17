@@ -16,8 +16,8 @@
 package clicmd
 
 import (
-	"github.com/ksonnet/ksonnet/pkg/actions"
-	"github.com/ksonnet/ksonnet/pkg/client"
+	"github.com/marsfun/ksonnet/pkg/actions"
+	"github.com/marsfun/ksonnet/pkg/client"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"

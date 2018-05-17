@@ -19,7 +19,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/app"
 	yaml "gopkg.in/yaml.v2"
 )
 

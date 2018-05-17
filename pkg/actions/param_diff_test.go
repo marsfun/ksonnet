@@ -20,10 +20,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	amocks "github.com/ksonnet/ksonnet/pkg/app/mocks"
-	"github.com/ksonnet/ksonnet/pkg/component"
-	"github.com/ksonnet/ksonnet/pkg/component/mocks"
+	"github.com/marsfun/ksonnet/pkg/app"
+	amocks "github.com/marsfun/ksonnet/pkg/app/mocks"
+	"github.com/marsfun/ksonnet/pkg/component"
+	"github.com/marsfun/ksonnet/pkg/component/mocks"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"
 )

@@ -21,8 +21,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/ksonnet/ksonnet/pkg/actions"
-	"github.com/ksonnet/ksonnet/pkg/client"
+	"github.com/marsfun/ksonnet/pkg/actions"
+	"github.com/marsfun/ksonnet/pkg/client"
 )
 
 const (

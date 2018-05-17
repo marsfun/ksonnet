@@ -18,7 +18,7 @@ package schema
 import (
 	"testing"
 
-	jsonnetutil "github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	jsonnetutil "github.com/marsfun/ksonnet/pkg/util/jsonnet"
 	"github.com/stretchr/testify/require"
 )
 

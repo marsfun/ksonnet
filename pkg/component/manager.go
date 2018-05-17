@@ -20,9 +20,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	param "github.com/ksonnet/ksonnet/metadata/params"
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/prototype"
+	param "github.com/marsfun/ksonnet/metadata/params"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/prototype"
 	"github.com/pkg/errors"
 	"github.com/spf13/afero"
 )

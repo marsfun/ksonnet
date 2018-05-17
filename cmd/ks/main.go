@@ -20,8 +20,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/ksonnet/ksonnet/pkg/clicmd"
-	"github.com/ksonnet/ksonnet/pkg/kubecfg"
+	"github.com/marsfun/ksonnet/pkg/clicmd"
+	"github.com/marsfun/ksonnet/pkg/kubecfg"
 )
 
 // Version is overridden using `-X main.version` during release builds

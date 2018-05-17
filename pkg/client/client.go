@@ -20,9 +20,9 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	str "github.com/ksonnet/ksonnet/pkg/util/strings"
-	"github.com/ksonnet/ksonnet/utils"
+	"github.com/marsfun/ksonnet/pkg/app"
+	str "github.com/marsfun/ksonnet/pkg/util/strings"
+	"github.com/marsfun/ksonnet/utils"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

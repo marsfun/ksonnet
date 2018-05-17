@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ksonnet/ksonnet/pkg/component"
+	"github.com/marsfun/ksonnet/pkg/component"
 
 	// gomega matchers
 	. "github.com/onsi/gomega"

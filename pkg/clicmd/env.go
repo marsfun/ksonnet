@@ -23,7 +23,7 @@ import (
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"
 
-	"github.com/ksonnet/ksonnet/pkg/client"
+	"github.com/marsfun/ksonnet/pkg/client"
 )
 
 const (

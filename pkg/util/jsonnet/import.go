@@ -18,7 +18,7 @@ package jsonnet
 import (
 	"github.com/google/go-jsonnet/ast"
 	"github.com/ksonnet/ksonnet-lib/ksonnet-gen/astext"
-	"github.com/ksonnet/ksonnet/pkg/docparser"
+	"github.com/marsfun/ksonnet/pkg/docparser"
 	"github.com/pkg/errors"
 	"github.com/spf13/afero"
 )

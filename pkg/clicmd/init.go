@@ -23,8 +23,8 @@ import (
 
 	"github.com/spf13/viper"
 
-	"github.com/ksonnet/ksonnet/pkg/actions"
-	"github.com/ksonnet/ksonnet/pkg/client"
+	"github.com/marsfun/ksonnet/pkg/actions"
+	"github.com/marsfun/ksonnet/pkg/client"
 	"github.com/spf13/cobra"
 )
 

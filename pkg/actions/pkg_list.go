@@ -21,9 +21,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/registry"
-	"github.com/ksonnet/ksonnet/pkg/util/table"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/registry"
+	"github.com/marsfun/ksonnet/pkg/util/table"
 )
 
 const (

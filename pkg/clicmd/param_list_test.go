@@ -18,7 +18,7 @@ package clicmd
 import (
 	"testing"
 
-	"github.com/ksonnet/ksonnet/pkg/actions"
+	"github.com/marsfun/ksonnet/pkg/actions"
 )
 
 func Test_paramListCmd(t *testing.T) {

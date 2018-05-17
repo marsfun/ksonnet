@@ -20,9 +20,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/pkg"
-	"github.com/ksonnet/ksonnet/pkg/registry"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/pkg"
+	"github.com/marsfun/ksonnet/pkg/registry"
 )
 
 // RunPkgDescribe runs `pkg install`

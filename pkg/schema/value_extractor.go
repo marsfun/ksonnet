@@ -20,8 +20,8 @@ import (
 
 	rice "github.com/GeertJohan/go.rice"
 	"github.com/ksonnet/ksonnet-lib/ksonnet-gen/astext"
-	"github.com/ksonnet/ksonnet/pkg/node"
-	jsonnetutil "github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	"github.com/marsfun/ksonnet/pkg/node"
+	jsonnetutil "github.com/marsfun/ksonnet/pkg/util/jsonnet"
 	"github.com/pkg/errors"
 )
 

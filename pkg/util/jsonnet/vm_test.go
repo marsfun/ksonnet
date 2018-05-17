@@ -19,7 +19,7 @@ import (
 	"testing"
 
 	jsonnet "github.com/google/go-jsonnet"
-	"github.com/ksonnet/ksonnet/pkg/util/test"
+	"github.com/marsfun/ksonnet/pkg/util/test"
 	"github.com/spf13/afero"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

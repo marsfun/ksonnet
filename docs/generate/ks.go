@@ -19,7 +19,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ksonnet/ksonnet/pkg/clicmd"
+	"github.com/marsfun/ksonnet/pkg/clicmd"
 	"github.com/spf13/cobra/doc"
 )
 

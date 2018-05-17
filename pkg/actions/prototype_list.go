@@ -20,10 +20,10 @@ import (
 	"os"
 	"sort"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/pkg"
-	"github.com/ksonnet/ksonnet/pkg/prototype"
-	"github.com/ksonnet/ksonnet/pkg/util/table"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/pkg"
+	"github.com/marsfun/ksonnet/pkg/prototype"
+	"github.com/marsfun/ksonnet/pkg/util/table"
 )
 
 // RunPrototypeList runs `prototype list`

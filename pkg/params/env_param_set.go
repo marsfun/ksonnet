@@ -21,8 +21,8 @@ import (
 	"github.com/google/go-jsonnet/ast"
 	"github.com/ksonnet/ksonnet-lib/ksonnet-gen/astext"
 	nm "github.com/ksonnet/ksonnet-lib/ksonnet-gen/nodemaker"
-	"github.com/ksonnet/ksonnet/metadata/params"
-	"github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	"github.com/marsfun/ksonnet/metadata/params"
+	"github.com/marsfun/ksonnet/pkg/util/jsonnet"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 )

@@ -21,11 +21,11 @@ import (
 
 	"github.com/spf13/pflag"
 
-	"github.com/ksonnet/ksonnet/metadata"
-	"github.com/ksonnet/ksonnet/pkg/prototype"
-	"github.com/ksonnet/ksonnet/pkg/prototype/snippet"
-	"github.com/ksonnet/ksonnet/pkg/prototype/snippet/jsonnet"
-	str "github.com/ksonnet/ksonnet/pkg/util/strings"
+	"github.com/marsfun/ksonnet/metadata"
+	"github.com/marsfun/ksonnet/pkg/prototype"
+	"github.com/marsfun/ksonnet/pkg/prototype/snippet"
+	"github.com/marsfun/ksonnet/pkg/prototype/snippet/jsonnet"
+	str "github.com/marsfun/ksonnet/pkg/util/strings"
 	"github.com/spf13/cobra"
 )
 

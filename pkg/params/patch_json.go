@@ -15,7 +15,7 @@
 
 package params
 
-import "github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+import "github.com/marsfun/ksonnet/pkg/util/jsonnet"
 
 // PatchJSON patches components.
 func PatchJSON(jsonObject, patch, patchName string) (string, error) {

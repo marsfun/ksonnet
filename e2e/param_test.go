@@ -21,7 +21,7 @@ import (
 	"bytes"
 	"path/filepath"
 
-	"github.com/ksonnet/ksonnet/pkg/util/table"
+	"github.com/marsfun/ksonnet/pkg/util/table"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

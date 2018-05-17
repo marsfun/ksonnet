@@ -26,7 +26,7 @@ import (
 	"github.com/ksonnet/ksonnet-lib/ksonnet-gen/astext"
 	nm "github.com/ksonnet/ksonnet-lib/ksonnet-gen/nodemaker"
 	"github.com/ksonnet/ksonnet-lib/ksonnet-gen/printer"
-	jsonnetutil "github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	jsonnetutil "github.com/marsfun/ksonnet/pkg/util/jsonnet"
 	"github.com/pkg/errors"
 )
 

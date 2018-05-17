@@ -19,7 +19,7 @@ import (
 	"bytes"
 
 	"github.com/ksonnet/ksonnet-lib/ksonnet-gen/astext"
-	"github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	"github.com/marsfun/ksonnet/pkg/util/jsonnet"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 )

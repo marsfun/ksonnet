@@ -18,7 +18,7 @@ package component
 import (
 	"regexp"
 
-	"github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	"github.com/marsfun/ksonnet/pkg/util/jsonnet"
 	"github.com/sirupsen/logrus"
 )
 

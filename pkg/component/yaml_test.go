@@ -21,8 +21,8 @@ import (
 
 	"github.com/ksonnet/ksonnet-lib/ksonnet-gen/astext"
 
-	"github.com/ksonnet/ksonnet/pkg/app/mocks"
-	"github.com/ksonnet/ksonnet/pkg/util/test"
+	"github.com/marsfun/ksonnet/pkg/app/mocks"
+	"github.com/marsfun/ksonnet/pkg/util/test"
 	"github.com/spf13/afero"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

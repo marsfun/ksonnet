@@ -18,7 +18,7 @@ package node
 import (
 	"testing"
 
-	jsonnetutil "github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	jsonnetutil "github.com/marsfun/ksonnet/pkg/util/jsonnet"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

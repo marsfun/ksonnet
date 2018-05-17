@@ -19,8 +19,8 @@ import (
 	"encoding/json"
 	"path/filepath"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/util/jsonnet"
 	"github.com/spf13/afero"
 )
 

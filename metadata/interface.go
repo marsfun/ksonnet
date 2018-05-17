@@ -16,10 +16,10 @@
 package metadata
 
 import (
-	param "github.com/ksonnet/ksonnet/metadata/params"
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/component"
-	"github.com/ksonnet/ksonnet/pkg/prototype"
+	param "github.com/marsfun/ksonnet/metadata/params"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/component"
+	"github.com/marsfun/ksonnet/pkg/prototype"
 	"github.com/spf13/afero"
 )
 

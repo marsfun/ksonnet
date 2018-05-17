@@ -17,7 +17,7 @@
 package mocks
 
 import context "context"
-import github "github.com/ksonnet/ksonnet/pkg/util/github"
+import github "github.com/marsfun/ksonnet/pkg/util/github"
 import go_githubgithub "github.com/google/go-github/github"
 import mock "github.com/stretchr/testify/mock"
 

@@ -25,9 +25,9 @@ import (
 	"strings"
 
 	"github.com/google/go-jsonnet/ast"
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/params"
-	"github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/params"
+	"github.com/marsfun/ksonnet/pkg/util/jsonnet"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/afero"

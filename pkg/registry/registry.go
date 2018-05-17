@@ -16,8 +16,8 @@
 package registry
 
 import (
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/parts"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/parts"
 )
 
 // Protocol is the protocol for a registry.

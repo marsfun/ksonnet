@@ -18,9 +18,9 @@ package actions
 import (
 	"io"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/client"
-	"github.com/ksonnet/ksonnet/pkg/cluster"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/client"
+	"github.com/marsfun/ksonnet/pkg/cluster"
 )
 
 type runShowFn func(cluster.ShowConfig, ...cluster.ShowOpts) error

@@ -18,10 +18,10 @@ package appinit
 import (
 	"path/filepath"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/component"
-	"github.com/ksonnet/ksonnet/pkg/env"
-	"github.com/ksonnet/ksonnet/pkg/registry"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/component"
+	"github.com/marsfun/ksonnet/pkg/env"
+	"github.com/marsfun/ksonnet/pkg/registry"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/afero"

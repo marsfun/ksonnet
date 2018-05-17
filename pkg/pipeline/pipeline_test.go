@@ -21,10 +21,10 @@ import (
 	"testing"
 
 	"github.com/ksonnet/ksonnet-lib/ksonnet-gen/astext"
-	"github.com/ksonnet/ksonnet/pkg/app"
-	appmocks "github.com/ksonnet/ksonnet/pkg/app/mocks"
-	"github.com/ksonnet/ksonnet/pkg/component"
-	cmocks "github.com/ksonnet/ksonnet/pkg/component/mocks"
+	"github.com/marsfun/ksonnet/pkg/app"
+	appmocks "github.com/marsfun/ksonnet/pkg/app/mocks"
+	"github.com/marsfun/ksonnet/pkg/component"
+	cmocks "github.com/marsfun/ksonnet/pkg/component/mocks"
 	"github.com/stretchr/testify/require"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 )

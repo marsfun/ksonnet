@@ -24,7 +24,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/validate"
 	"github.com/ksonnet/ksonnet-lib/ksonnet-gen/kubespec"
-	"github.com/ksonnet/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/app"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

@@ -20,7 +20,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ksonnet/ksonnet/pkg/actions"
+	"github.com/marsfun/ksonnet/pkg/actions"
 	"github.com/stretchr/testify/require"
 )
 

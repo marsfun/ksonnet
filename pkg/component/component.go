@@ -20,9 +20,9 @@ import (
 	"strings"
 
 	"github.com/google/go-jsonnet/ast"
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/schema"
-	jsonnetutil "github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/schema"
+	jsonnetutil "github.com/marsfun/ksonnet/pkg/util/jsonnet"
 
 	"github.com/pkg/errors"
 	"github.com/spf13/afero"

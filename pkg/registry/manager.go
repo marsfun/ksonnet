@@ -18,8 +18,8 @@ package registry
 import (
 	"path/filepath"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/pkg"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/pkg"
 	"github.com/pkg/errors"
 )
 

@@ -21,7 +21,7 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/app"
 	"github.com/pkg/errors"
 	"github.com/spf13/afero"
 )

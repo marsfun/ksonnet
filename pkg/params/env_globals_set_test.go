@@ -19,8 +19,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ksonnet/ksonnet/metadata/params"
-	"github.com/ksonnet/ksonnet/pkg/util/test"
+	"github.com/marsfun/ksonnet/metadata/params"
+	"github.com/marsfun/ksonnet/pkg/util/test"
 	"github.com/stretchr/testify/require"
 )
 

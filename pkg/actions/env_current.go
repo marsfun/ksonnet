@@ -20,7 +20,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/app"
 	"github.com/pkg/errors"
 )
 

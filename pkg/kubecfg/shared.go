@@ -18,7 +18,7 @@ package kubecfg
 import (
 	"os"
 
-	"github.com/ksonnet/ksonnet/metadata"
+	"github.com/marsfun/ksonnet/metadata"
 )
 
 func manager() (metadata.Manager, error) {

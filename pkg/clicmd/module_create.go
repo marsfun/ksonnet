@@ -16,7 +16,7 @@
 package clicmd
 
 import (
-	"github.com/ksonnet/ksonnet/pkg/actions"
+	"github.com/marsfun/ksonnet/pkg/actions"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

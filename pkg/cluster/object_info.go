@@ -16,7 +16,7 @@
 package cluster
 
 import (
-	"github.com/ksonnet/ksonnet/utils"
+	"github.com/marsfun/ksonnet/utils"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/client-go/discovery"
 )

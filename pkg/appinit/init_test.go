@@ -19,9 +19,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/registry"
-	"github.com/ksonnet/ksonnet/pkg/registry/mocks"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/registry"
+	"github.com/marsfun/ksonnet/pkg/registry/mocks"
 	"github.com/spf13/afero"
 	"github.com/stretchr/testify/require"
 )

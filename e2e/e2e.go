@@ -23,7 +23,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/ksonnet/ksonnet/pkg/util/strings"
+	"github.com/marsfun/ksonnet/pkg/util/strings"
 	"github.com/pkg/errors"
 	"k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
@@ -128,7 +128,7 @@ func (e *e2e) buildKs() {
 		"build",
 		"-o",
 		e.ksBin(),
-		`github.com/ksonnet/ksonnet/cmd/ks`,
+		`github.com/marsfun/ksonnet/cmd/ks`,
 	}
 
 	cmd := exec.Command("go", args...)

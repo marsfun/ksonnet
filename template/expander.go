@@ -23,7 +23,7 @@ import (
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 
 	jsonnet "github.com/google/go-jsonnet"
-	"github.com/ksonnet/ksonnet/utils"
+	"github.com/marsfun/ksonnet/utils"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/afero"

@@ -24,10 +24,10 @@ import (
 	"github.com/spf13/cobra"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"
 
-	"github.com/ksonnet/ksonnet/metadata"
-	"github.com/ksonnet/ksonnet/pkg/client"
-	"github.com/ksonnet/ksonnet/pkg/kubecfg"
-	"github.com/ksonnet/ksonnet/pkg/pipeline"
+	"github.com/marsfun/ksonnet/metadata"
+	"github.com/marsfun/ksonnet/pkg/client"
+	"github.com/marsfun/ksonnet/pkg/kubecfg"
+	"github.com/marsfun/ksonnet/pkg/pipeline"
 )
 
 const (

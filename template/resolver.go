@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/ksonnet/ksonnet/utils"
+	"github.com/marsfun/ksonnet/utils"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -16,9 +16,9 @@
 package actions
 
 import (
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/appinit"
-	"github.com/ksonnet/ksonnet/pkg/registry"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/appinit"
+	"github.com/marsfun/ksonnet/pkg/registry"
 	"github.com/spf13/afero"
 )
 

@@ -18,9 +18,9 @@ package metadata
 import (
 	"path/filepath"
 
-	"github.com/ksonnet/ksonnet/pkg/env"
+	"github.com/marsfun/ksonnet/pkg/env"
 
-	param "github.com/ksonnet/ksonnet/metadata/params"
+	param "github.com/marsfun/ksonnet/metadata/params"
 )
 
 const (

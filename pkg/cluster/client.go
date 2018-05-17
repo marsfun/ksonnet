@@ -16,7 +16,7 @@
 package cluster
 
 import (
-	"github.com/ksonnet/ksonnet/utils"
+	"github.com/marsfun/ksonnet/utils"
 	"github.com/pkg/errors"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	"k8s.io/apimachinery/pkg/apis/meta/v1/unstructured"

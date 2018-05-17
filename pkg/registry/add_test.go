@@ -20,11 +20,11 @@ import (
 
 	"github.com/spf13/afero"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	amocks "github.com/ksonnet/ksonnet/pkg/app/mocks"
-	ghutil "github.com/ksonnet/ksonnet/pkg/util/github"
-	"github.com/ksonnet/ksonnet/pkg/util/github/mocks"
-	"github.com/ksonnet/ksonnet/pkg/util/test"
+	"github.com/marsfun/ksonnet/pkg/app"
+	amocks "github.com/marsfun/ksonnet/pkg/app/mocks"
+	ghutil "github.com/marsfun/ksonnet/pkg/util/github"
+	"github.com/marsfun/ksonnet/pkg/util/github/mocks"
+	"github.com/marsfun/ksonnet/pkg/util/test"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"

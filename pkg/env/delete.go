@@ -18,7 +18,7 @@ package env
 import (
 	"path/filepath"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/app"
 	log "github.com/sirupsen/logrus"
 )
 

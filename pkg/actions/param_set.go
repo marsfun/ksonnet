@@ -18,11 +18,11 @@ package actions
 import (
 	"strings"
 
-	mp "github.com/ksonnet/ksonnet/metadata/params"
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/component"
-	"github.com/ksonnet/ksonnet/pkg/env"
-	"github.com/ksonnet/ksonnet/pkg/util/jsonnet"
+	mp "github.com/marsfun/ksonnet/metadata/params"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/component"
+	"github.com/marsfun/ksonnet/pkg/env"
+	"github.com/marsfun/ksonnet/pkg/util/jsonnet"
 	"github.com/pkg/errors"
 )
 

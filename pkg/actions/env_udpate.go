@@ -18,8 +18,8 @@ package actions
 import (
 	"fmt"
 
-	"github.com/ksonnet/ksonnet/pkg/app"
-	"github.com/ksonnet/ksonnet/pkg/lib"
+	"github.com/marsfun/ksonnet/pkg/app"
+	"github.com/marsfun/ksonnet/pkg/lib"
 )
 
 // RunEnvUpdate runs `env update`.
